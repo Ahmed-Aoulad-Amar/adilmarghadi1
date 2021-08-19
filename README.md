@@ -13,7 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C](https://img.shields.io/badge/-R-333333?style=flat&logo=c&logoColor=276DC3)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://adilmarghadi1.github.io/AdilDev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adilmarghadi1.github.io/AdilDev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adil-marghady-2231371b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%adil-marghady%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/adil-marghady-2231371b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adil%marghadi%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adil.dev1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adil.dev1-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:adilmarghadi2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adilmarghadi2020@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
