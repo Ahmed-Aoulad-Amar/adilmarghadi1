@@ -48,3 +48,6 @@
 
 ![](https://komarev.com/ghpvc/?username=adilmarghadi1)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilmarghadi1)](https://github.com/anuraghazra/github-readme-stats)
+
